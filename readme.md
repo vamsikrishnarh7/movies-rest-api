@@ -14,7 +14,7 @@
 copy the url of the forked repository and clone it
 
 ```bash 
-git clone https://github.com/<github_username>/movies-rest-api
+git clone https://github.com/<github_username>/movies-rest-api.git
 ```
 ## Change the directory
 ```bash
